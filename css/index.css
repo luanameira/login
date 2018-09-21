@@ -43,6 +43,15 @@
     cursor: pointer;
 }
 
+.sucesso{
+    color: green;
+    font-weight: bolder;
+}
+
+.erro{
+    color: red;
+    font-weight: bolder;
+}
 .form button:hover,
 .form button:active,
 .form button:focus {
